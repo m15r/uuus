@@ -1,0 +1,25 @@
+{
+    "name": "uuus",
+    "description": "Randomly Unique Username",
+    "keywords": ["username generator","random username","username"],
+    "version": "1.0.4",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://gitlab.com/m15r/uuus"
+    },
+    "author": "m15r",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "build": "npx tsc"
+    },
+    "files": [
+        "dist/**",
+        "dictionaries/**"
+    ],
+    "devDependencies": {
+        "@types/node": "^18.15.11",
+        "typescript": "^4.6.3"
+    }
+}
