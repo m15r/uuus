@@ -5,7 +5,7 @@ Easily generate random and unique usernames from a dictionary with thousands of 
 ## Install
 
 ```
-npm i gen-username
+npm i uuus
 ```
 
 ## Usage
