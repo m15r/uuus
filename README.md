@@ -1,4 +1,4 @@
-# Random Unique Username Generator
+# Universally Unique Username
 
 Easily generate random and unique usernames from a dictionary with thousands of words. Simple and lightweight.
 
