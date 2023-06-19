@@ -11,7 +11,7 @@ npm i gen-username
 ## Usage
 
 ```ts
-import { generateUsername } from "gen-username"
+import { generateUsername } from "uuus"
 
 const username = generateUsername({
     maxLength: 16,
